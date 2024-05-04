@@ -24,4 +24,3 @@ permalink: /portfolio/portfolio-1
 *Description of certificate 5.*
 
 </div>
-
