@@ -5,28 +5,57 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-### Certificates
+## Certificates
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+<div class="card-container">
 
-<br/><img src='/images/portfolio/Certificate1.png' alt=''>
-*Master's of Science in Medical Biochemistry from Addis Ababa University*
+<div class="card">
+  <img src="/images/portfolio/Certificate1.png" alt="Certificate 1" style="width:100%">
+  <div class="container">
+    <p>Master's of Science in Medical Biochemistry from Addis Ababa University</p>
+  </div>
+</div>
 
-<br/><img src='/images/portfolio/Certificate2.png' alt=''>
-*Transcript of Master's Degree, with GPA of #3.7/4.0# *
+<div class="card">
+  <img src="/images/portfolio/Certificate2.png" alt="Certificate 2" style="width:100%">
+  <div class="container">
+    <p>Transcript of Master's Degree, with GPA of 3.7/4.0</p>
+  </div>
+</div>
 
-<br/><img src='/images/portfolio/Certificate3.png' alt=''>
-*Higher Diploma Program in Teacher Education*
+<div class="card">
+  <img src="/images/portfolio/Certificate3.png" alt="Certificate 3" style="width:100%">
+  <div class="container">
+    <p>Higher Diploma Program in Teacher Education</p>
+  </div>
+</div>
 
-<br/><img src='/images/portfolio/Certificate4.png' alt=''>
-*Research Methods, Research Ethics and Grant Writ.ing Trainings*
+<div class="card">
+  <img src="/images/portfolio/Certificate4.png" alt="Certificate 4" style="width:100%">
+  <div class="container">
+    <p>Research Methods, Research Ethics and Grant Writing Trainings</p>
+  </div>
+</div>
 
-<br/><img src='/images/portfolio/Certificate5.png' alt=''>
-*Staff Teaching Performance Evaluation Report*
+<div class="card">
+  <img src="/images/portfolio/Certificate5.png" alt="Certificate 5" style="width:100%">
+  <div class="container">
+    <p>Staff Teaching Performance Evaluation Report</p>
+  </div>
+</div>
 
 </div>
 
-{% include base_path %}
+<style>
+/* Style the card */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 200px;
+}
 
-
-
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+</style>
