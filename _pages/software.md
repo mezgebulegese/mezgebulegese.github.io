@@ -1,3 +1,6 @@
+---
+permalink: /software/
+---
 
 ## Software Skills
 
