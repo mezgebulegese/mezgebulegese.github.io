@@ -13,9 +13,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "HABTE MEZGEBU LEGESSE"
 description              : &description "Biochemistry Lecturer and Researcher @ College of Medical and Health Science, Haramaya University"
-url                      :  https://mezgebulegesse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://mezgebulegese.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mezgebulegesse/mezgebulegesse.github.io"
+repository               : "mezgebulegese/mezgebulegese.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -103,7 +103,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mezgebulegesse"
+  github           : "mezgebulegese"
   gitlab           : 
   google_plus      :
   keybase          :
