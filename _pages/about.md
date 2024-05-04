@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to My Academic Page: Lecturer and Researcher in Biochemistry and Molecular Biology
+
 ## <span style="color: #008000;">Biochemistry Lecturer and Researcher</span>
 ## <span style="font-style: italic;">College of Medical and Health Science, Haramaya University, Harar, Ethiopia</span>
 
