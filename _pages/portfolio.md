@@ -9,8 +9,8 @@ author_profile: true
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
 
-![Certificate 1](https://github.com/mezgebulegese/mezgebulegese.github.io/raw/main/images/portfolio/Certificate1.png)
-*Description of certificate 1.*
+![Certificate 1] <br/><img src='/images/portfolio/Certificate1.png' alt=''>
+*Master's of Science in Medical Biochemistry from Addis Ababa University*
 
 ![Certificate 2](https://github.com/mezgebulegese/mezgebulegese.github.io/raw/main/images/portfolio/Certificate2.png)
 *Description of certificate 2.*
