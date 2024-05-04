@@ -3,24 +3,25 @@ collection: portfolio
 permalink: /portfolio/portfolio-1
 ---
 
+
 ### Certificates
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
 
-![Certificate 1](Certificate1.jpg)
+![Certificate 1](https://github.com/mezgebulegese/mezgebulegese.github.io/raw/main/images/portfolio/Certificate1.png)
 *Description of certificate 1.*
 
-![Certificate 2](Certificate2.jpg)
+![Certificate 2](https://github.com/mezgebulegese/mezgebulegese.github.io/raw/main/images/portfolio/Certificate2.png)
 *Description of certificate 2.*
 
-![Certificate 3](Certificate3.jpg)
+![Certificate 3](https://github.com/mezgebulegese/mezgebulegese.github.io/raw/main/images/portfolio/Certificate3.png)
 *Description of certificate 3.*
 
-![Certificate 3](Certificate4.jpg)
-*Description of certificate 3.*
+![Certificate 4](https://github.com/mezgebulegese/mezgebulegese.github.io/raw/main/images/portfolio/Certificate4.png)
+*Description of certificate 4.*
 
-![Certificate 3](Certificate5.jpg)
-*Description of certificate 3.*
+![Certificate 5](https://github.com/mezgebulegese/mezgebulegese.github.io/raw/main/images/portfolio/Certificate5.png)
+*Description of certificate 5.*
 
 </div>
-  
+
