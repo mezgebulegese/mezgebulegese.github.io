@@ -10,6 +10,6 @@ permalink: /software/
 
 - ![Microsoft PowerPoint](https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png) **Microsoft PowerPoint**: Proficient in creating visually appealing presentations for lectures and conferences.
 
-- ![SPSS](https://github.com/mezgebulegese/mezgebulegese.github.io/blob/main/IBM%20SPSS%20Statistics.svg) **SPSS**: Proficient in statistical analysis and data mining.
+- ![SPSS](https://img.icons8.com/color/48/000000/ibm-spss-statistics.png) **SPSS**: Proficient in statistical analysis and data mining.
 
 - ![R Programming](https://img.icons8.com/color/48/000000/r.png) **R Programming**: Proficient in statistical analysis, data visualization, and bioinformatics tasks.
