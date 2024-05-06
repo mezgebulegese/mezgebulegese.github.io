@@ -10,6 +10,13 @@ author_profile: true
 <div class="card-container">
 
 <div class="card">
+  <img src="/images/portfolio/Certificate6.png" alt="Certificate 6" style="width:100%">
+  <div class="container">
+    <p style="color: #007bff;">Asian Journal ofResearch in Dermatological Science =>> Certificate of Excellence in Reviewing </p>
+  </div>
+</div>
+
+<div class="card">
   <img src="/images/portfolio/Certificate1.png" alt="Certificate 1" style="width:100%">
   <div class="container">
     <p style="color: #007bff;">Master's of Science in Medical Biochemistry from Addis Ababa University</p>
@@ -51,7 +58,7 @@ author_profile: true
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 300px; /* Adjust the width as per your preference */
+  width: 600px; /* Adjust the width as per your preference */
 }
 
 /* Add some padding inside the card container */
