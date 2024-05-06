@@ -51,7 +51,7 @@ author_profile: true
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 200px;
+  width: 300px; /* Adjust the width as per your preference */
 }
 
 /* Add some padding inside the card container */
